@@ -21,3 +21,7 @@ Task 19 Replace all characters A and c from input to Z and e respectively
 Task 20 is to remove letter c
 Task 21 this scripts reverses its input
 Task 22 displays all users and their home directories, sorted by users.
+Adv task 1
+Adv task 2 is to print files with *.gif
+Adv task 3
+Adv task 4
